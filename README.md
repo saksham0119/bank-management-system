@@ -21,4 +21,4 @@ Features include:
 4. Run the following command:
 
 ```bash
-python bank_system.py
+https://github.com/saksham0119/bank-management-system/blob/main/Untitled%20(1).ipynb
